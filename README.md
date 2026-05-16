@@ -96,7 +96,6 @@ npm run dev --prefix server   # Terminal 1 - API on :5000
 npm run dev --prefix client   # Terminal 2 - UI on :5173
 ```
 
-Open http://localhost:5173
 
 ## Environment Variables
 
